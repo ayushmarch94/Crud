@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+table{
+    margin-top: 50px;
+}
+
+#box{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    margin-top: 30px;
+}
+
+#modalHead{
+    font-size: 30px;
+}
+
+#update_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modal-body{
+    width: 60vw;
+}
+
+#update_footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#update_button{
+    margin-left: 10px;
+}
